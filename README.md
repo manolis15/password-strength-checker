@@ -22,7 +22,7 @@ Where **Pool Size** adapts dynamically:
 ## How to Run
 
 1.  Clone the repository.
-2.  Ensure python is installed
+2.  Ensure python is installed.
 3.  Ensure `common_passwords.txt` is in the same folder.
 4.  Run the script:
     ```bash
